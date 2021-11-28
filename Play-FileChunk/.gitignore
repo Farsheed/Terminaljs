@@ -1,0 +1,15 @@
+/*** File Type ***/
+*.log
+*.out
+*.pid
+!.gitignore
+
+/*** Files ***/
+package-lock.json
+docker-compose.yml
+
+/*** Folder ***/
+rethinkdb_data
+node_modules
+update
+logs

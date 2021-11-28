@@ -1,0 +1,19 @@
+{
+  "name": "filechunk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "chunk"
+  ],
+  "author": "Farsheed Atef",
+  "license": "ISC",
+  "dependencies": {
+    "rolling-hash": "^0.0.0",
+    "text-file-diff": "^1.4.6"
+  }
+}
